@@ -5,7 +5,7 @@ Prediction Model for Defaulters from Credit history dataset using DecisionTreeCl
 1) Default(binary)
 2) Amount(Integer)
 3) Grade(Categorical: A,B,C,D,E,F,G)
-4) Ownership(Categorical: 'mortgage','other','own','')
+4) Ownership(Categorical: 'mortgage','other','own','rent')
 5) Income(Float)
 6) Age(Integer)
 
