@@ -1,5 +1,5 @@
 # CreditHistory
-Prediction Model for Defaulters from Credit history dataset using DecisionTreeClassifier Algorithm
+Prediction Model for Defaulters from Credit history dataset using DecisionTreeClassifier Algorithm.
 
 ## Variables:
 1) Default(binary)
@@ -9,13 +9,13 @@ Prediction Model for Defaulters from Credit history dataset using DecisionTreeCl
 5) Income(Float)
 6) Age(Integer)
 
-## Data Handling
+## Data Handling:
 1) Importing Data with Pandas
 2) Cleaning Data
 3) Exploring Data through Visualizations with graphs
 4) Data Prediction
 
-## Packages required in Python
+## Packages required in Python:
 1)  pandas
 2)  numpy
 3)  sklearn.tree
