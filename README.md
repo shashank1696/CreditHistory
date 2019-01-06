@@ -2,12 +2,12 @@
 Prediction Model for Defaulters from Credit history dataset using DecisionTreeClassifier Algorithm.
 
 ## Variables:
-1) Default(binary)
-2) Amount(Integer)
-3) Grade(Categorical: A,B,C,D,E,F,G)
-4) Ownership(Categorical: 'mortgage','other','own','rent')
-5) Income(Float)
-6) Age(Integer)
+1) Default(binary) : Default is the failure to pay interest or principal on a loan or security when due.
+2) Amount(Integer) : customers amount
+3) Grade(Categorical: A,B,C,D,E,F,G) 
+4) Ownership(Categorical: 'mortgage','other','own','rent') : Property for mortgage
+5) Income(Float) : Income of customers
+6) Age(Integer) : Age of customers 
 
 ## Data Handling:
 1) Importing Data with Pandas
